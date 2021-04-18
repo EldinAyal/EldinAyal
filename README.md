@@ -5,6 +5,7 @@ I'm Ayal Eldin a Computer Engineering student at [Technion](https://www.technion
 :mailbox: Reach me out!
 
  [![Linkedin Badge](https://img.shields.io/badge/-Ayal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayal-eldin/) [![Mail Badge](https://img.shields.io/badge/-@ayaleldin-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ayaleldin) [![Mail Badge](https://img.shields.io/badge/-eldinayal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:eldinayal@gmail.com)
+ <br>
 <a  href="https://stackoverflow.com/users/15680652/eldinayal"><img src="https://stackoverflow.com/users/flair/15680652.png?theme=dark" width="208" height="58" alt="profile for EldinAyal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for EldinAyal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!-- TODO: Add last video link -->
