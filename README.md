@@ -10,7 +10,7 @@ I'm Ayal Eldin a Computer Engineering student at [Technion](https://www.technion
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Intel
+
 - 🤔 I’m looking for interesting project to help on.
 - 📫 How to reach me: eldinayal@gmail.com.
 - ⚡ Talk to me about Machine learning and AI , also about music and bass.
